@@ -1,4 +1,4 @@
-## Overview
+## Team Fortress Classic utilities
 This GitHub org is intended to be a starting point for someone looking for utilities relevant to the first-person shooter game [Team Fortress Classic](https://store.steampowered.com/app/20/Team_Fortress_Classic/) (TFC).
 
 ## Server log analyzers/parsers
