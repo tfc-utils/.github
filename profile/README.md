@@ -24,3 +24,6 @@ This list is not (yet?) comprehensive.
 
 * Team Fortress PUGs Discord server (a.k.a. "Coach's"):
   * [Restart game plugin](https://github.com/tfc-utils/amx-plugins/tree/main/restartgame)
+
+### Other plugins
+* [FoxBot](https://github.com/APGRoboCop/foxbot/tree/master): powers bots commonly seen on public servers.
