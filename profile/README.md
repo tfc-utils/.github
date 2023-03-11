@@ -1,6 +1,8 @@
 ## Team Fortress Classic utilities
 This GitHub org is intended to be a starting point for someone looking for utilities relevant to the first-person shooter game [Team Fortress Classic](https://store.steampowered.com/app/20/Team_Fortress_Classic/) (TFC).
 
+Source code is preferred and is offered when available. Repo forks that exist within this project but are intended to stay in sync with their upstream branches unless the upstream becomes abandoned; please make contributions to those upstream projects directly.
+
 ## Server log analyzers/parsers
 * [Hampalyzer](http://app.hampalyzer.com/):
   * Supports submitting a TFC server log to a web service and outputs a summary web page with detailed statistics of either a single game round or two rounds on the same map in which the teams swapped offensive and defensive roles between rounds. This format is common in the TFC pickup community.
