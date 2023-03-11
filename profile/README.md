@@ -26,4 +26,4 @@ This list is not (yet?) comprehensive.
   * [Restart game plugin](https://github.com/tfc-utils/amx-plugins/tree/main/restartgame)
 
 ### Other plugins
-* [FoxBot](https://github.com/APGRoboCop/foxbot/tree/master): powers bots commonly seen on public servers.
+* [FoxBot](https://github.com/APGRoboCop/foxbot/tree/master): powers bots commonly seen on public servers. Also see the [archive.org copy of the since-removed TF Wiki page](https://web.archive.org/web/20220907074612/https://wiki.teamfortress.com/wiki/Bots_(Classic)#Foxbot).
